@@ -1,0 +1,2 @@
+C:\VisualStudio\GestEvent\GestEvent\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\VisualStudio\GestEvent\GestEvent\BO\obj\Debug\BO.csproj.GenerateResource.Cache
